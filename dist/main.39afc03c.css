@@ -1,0 +1,16 @@
+body {
+  background-color: #90c72a;
+  color: #1f1818;
+  font: 1em sans-serif;
+}
+
+header h1 {
+  font-size: 60px;
+  color: #3ad835;
+}
+header img {
+  border-radius: 5px;
+  box-shadow: rgba(130, 121, 121, 0.2) 0px 0px 12px 0px;
+}
+
+/*# sourceMappingURL=/main.39afc03c.css.map */

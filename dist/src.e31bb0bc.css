@@ -1,0 +1,70 @@
+/* COMPONENTS ============================== */
+/* LAYOUT ================================ */
+header h1 {
+  font-size: 90px;
+  color: #090e09;
+}
+header p {
+  font-size: 50px;
+  color: black;
+}
+header button {
+  font-size: 50px;
+}
+
+/* PAGES ============================== */
+body {
+  background-color: #2195b8;
+  color: #9c9494;
+  font: 1em sans-serif;
+  height: 3000px;
+}
+
+::-webkit-scrollbar {
+  width: 7.5px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #333;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #666;
+  border-radius: 50px;
+}
+::-webkit-scrollbar-thumb:hover {
+  opacity: 1;
+  background-color: #fff;
+}
+
+/* FRAMEWORK ============================== */
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+:focus {
+  outline: none;
+}
+.header[data-v-51ed9c] {
+  font: 500 40px sans-serif;
+  padding: 15px 5px;
+  background-color: #000000;
+  border: 10px solid #1abfc5;
+  color: #fff;
+  border-radius: 50px;
+  text-align: center;
+  width: 300px;
+  cursor: pointer;
+  user-select: none;
+  transition: 0.2s;
+  margin: 20px;
+}
+.header[data-v-51ed9c]:active {
+  transform: scale(0.75);
+}
+
+/*# sourceMappingURL=/src.e31bb0bc.css.map */
