@@ -9,6 +9,6 @@
 <style lang="scss" >
 header {
   font-size: 50px;
-  color: gold;
+  color: green;
 }
 </style>
