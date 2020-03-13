@@ -8,7 +8,9 @@
 
 <style lang="scss" >
 header {
-  font-size: 50px;
-  color: black;
+  font-size: 70px;
+  color: orange;
+  display:flex;
+  
 }
 </style>
