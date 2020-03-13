@@ -31,7 +31,7 @@ export default Vue.extend({
   font: 500 40px sans-serif;
   padding: 15px 5px;
   background-color: #000000;
-  border: 10px solid #1abfc5;
+  border: 10px solid #1ac5b7;
   color: #fff;
   border-radius: 50px;
   text-align: center;
